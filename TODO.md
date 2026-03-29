@@ -1,18 +1,26 @@
 # Agents
 ### Deps
 
--[ ] APM
--[ ] Agentrc
--[ ] mcp-server-nix
--[ ] llm-agents
+-[ ] APM  
+-[ ] Agentrc  
+-[ ] mcp-server-nix  
+-[ ] llm-agents  
 
-# Omnirepo
-### Deps
+# Omnirepo  
+### Deps  
 
-  -[ ] Blueprint
-  -[ ] Dendrix
-  -[ ] NoN-Dev
+  -[ ] Blueprint  
+  -[ ] Dendrix  
+  -[ ] NoN-Dev  
 
-# Construct
+# Construct  
 
-# Nickel
+# Nickel  
+
+# Plugins
+
+## Nushell
+## Typst/Typix
+## Anthropic
+## Codex
+## OpenClaw
